@@ -1,0 +1,31 @@
+Date,Order_ID,Product,Category,Sub_Category,Quantity,Unit_Price,Region,City,Payment_Method,Customer_Age,Customer_Type
+2024-01-01,ORD001,Laptop,Electronics,Computers,2,55000,North,Delhi,UPI,28,New
+2024-01-01,ORD002,Mouse,Accessories,Input Devices,5,500,West,Mumbai,Credit Card,34,Returning
+2024-01-02,ORD003,Keyboard,Accessories,Input Devices,3,800,South,Bangalore,Debit Card,22,New
+2024-01-02,ORD004,Headphones,Electronics,Audio,4,1500,East,Kolkata,UPI,19,Returning
+2024-01-03,ORD005,Laptop,Electronics,Computers,1,56000,South,Chennai,Credit Card,45,New
+2024-01-03,ORD006,Office Chair,Furniture,Seating,2,4000,North,Delhi,Cash,39,Returning
+2024-01-04,ORD007,Office Desk,Furniture,Tables,1,12000,West,Pune,Debit Card,30,New
+2024-01-04,ORD008,Mouse,Accessories,Input Devices,6,550,East,Patna,UPI,23,Returning
+2024-01-05,ORD009,Keyboard,Accessories,Input Devices,2,900,North,Delhi,Credit Card,50,New
+2024-01-05,ORD010,Headphones,Electronics,Audio,3,1600,West,Mumbai,Cash,27,Returning
+2024-01-06,ORD011,Laptop,Electronics,Computers,1,57000,East,Guwahati,UPI,33,Returning
+2024-01-06,ORD012,Office Chair,Furniture,Seating,3,4200,South,Hyderabad,Credit Card,29,New
+2024-01-07,ORD013,Office Desk,Furniture,Tables,1,11500,North,Delhi,UPI,41,Returning
+2024-01-07,ORD014,Mouse,Accessories,Input Devices,4,600,South,Bangalore,Debit Card,24,New
+2024-01-08,ORD015,Laptop,Electronics,Computers,3,54000,West,Pune,Cash,37,Returning
+2024-01-08,ORD016,Headphones,Electronics,Audio,5,1550,North,Delhi,Credit Card,31,New
+2024-01-09,ORD017,Printer,Electronics,Office Equipment,2,12000,East,Kolkata,UPI,44,Returning
+2024-01-09,ORD018,Ink Cartridge,Accessories,Printer Supplies,6,800,South,Chennai,Debit Card,26,New
+2024-01-10,ORD019,Monitor,Electronics,Displays,2,15000,North,Delhi,Credit Card,38,Returning
+2024-01-10,ORD020,Mousepad,Accessories,Input Devices,10,250,West,Mumbai,Cash,21,New
+2024-01-11,ORD021,Laptop Stand,Accessories,Office Supplies,4,900,East,Bhubaneswar,UPI,42,Returning
+2024-01-11,ORD022,Keyboard,Accessories,Input Devices,3,850,South,Bangalore,Debit Card,29,New
+2024-01-12,ORD023,Router,Electronics,Networking,2,2500,North,Delhi,Credit Card,35,Returning
+2024-01-12,ORD024,Headphones,Electronics,Audio,4,1700,West,Mumbai,UPI,40,New
+2024-01-13,ORD025,Laptop,Electronics,Computers,1,59000,South,Chennai,Cash,28,Returning
+2024-01-13,ORD026,Office Chair,Furniture,Seating,2,4300,East,Ranchi,Credit Card,32,New
+2024-01-14,ORD027,Webcam,Electronics,Video,3,3200,North,Delhi,UPI,36,Returning
+2024-01-14,ORD028,Projector,Electronics,Displays,1,45000,South,Hyderabad,Credit Card,47,New
+2024-01-15,ORD029,Printer,Electronics,Office Equipment,1,13000,West,Pune,Cash,30,Returning
+2024-01-15,ORD030,Desk Lamp,Accessories,Office Supplies,5,700,East,Kolkata,UPI,25,New
